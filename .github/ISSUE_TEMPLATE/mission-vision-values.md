@@ -1,8 +1,8 @@
 ---
 name: Mission Vision Values
-about: Describe this issue template's purpose here.
+about: ''
 title: ''
-labels: ''
+labels: 'Mission'
 assignees: ''
 
 ---
