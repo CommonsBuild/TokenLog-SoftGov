@@ -1,6 +1,6 @@
 ---
 name: Mission Vision Values
-about: 'How will the world benefit from the efforts of the Token Engineering Commons? Describe your vision! Then go and vote at https://tokenlog.xyz/TECommons/TokenLog-SoftGov'
+about: 'How will the world benefit from the efforts of the Token Engineering Commons? Describe your vision!'
 title: ''
 labels: 'Mission'
 assignees: ''
@@ -13,3 +13,6 @@ assignees: ''
 ...
 ### What are the core values of the Token Engineering Commons?
 ...
+
+---
+### 🗳🗳 When you are done describing your vision, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite visions!  
