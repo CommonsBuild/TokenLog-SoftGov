@@ -1,7 +1,7 @@
 ---
 name: Mission Vision Values
 about: 'We are revisiting the TEC mission, vision and values and proposing new statements using TokenLog to pick the best ones. Everyone can submit issues and CSTK and Impact Hour token holders can vote!'
-title: 'Put a title on your vision here. Be creative!'
+title: 'Name your vision. Be creative! ✨'
 labels: 'Mission'
 assignees: ''
 
@@ -9,8 +9,10 @@ assignees: ''
 
 ### What is the mission of the Token Engineering Commons?
 ...
+
 ### How do you envision the world will benefit from the efforts of the Token Engineering Commons?
 ...
+
 ### What are the core values of the Token Engineering Commons?
 ...
 
