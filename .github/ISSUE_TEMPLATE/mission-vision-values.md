@@ -1,7 +1,7 @@
 ---
 name: Mission Vision Values
-about: 'How will the world benefit from the efforts of the Token Engineering Commons? Describe your vision!'
-title: ''
+about: 'We are revisiting the TEC mission, vision and values and proposing new statements using TokenLog to pick the best ones. Everyone can submit issues and CSTK and Impact Hour token holders can vote!'
+title: 'Put a title on your vision here. Be creative!'
 labels: 'Mission'
 assignees: ''
 
@@ -14,5 +14,8 @@ assignees: ''
 ### What are the core values of the Token Engineering Commons?
 ...
 
----
-### 🗳🗳 When you are done describing your vision, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite visions!  
+--- 
+
+🤔 Take a look at [this post](https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296) if you have any questions.
+
+🗳 When you are finished writing, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite visions!  
