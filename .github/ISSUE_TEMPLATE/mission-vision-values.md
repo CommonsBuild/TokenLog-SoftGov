@@ -20,4 +20,6 @@ assignees: ''
 
 🤔 Take a look at [this post](https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296) if you have any questions.
 
-🗳 When you are finished writing, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite visions!  
+🗳 When you are finished writing, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite visions! 
+
+📆 In the TEC, we have a tradition of voting on the weekends so everyone has the chance to submit a proposal until Friday, April 2nd when the voting phase will be promoted.
