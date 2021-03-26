@@ -3,7 +3,7 @@ MISSION, VISION, VALUES
 
 **TL;DR** 
 
-We are revisiting the TEC mission, vision and values and proposing new statements using Tokenlog to pick the best ones. Everyone can participate and CSTK and Impact Hour token holders can vote! There are only 2 steps, proposing and voting. Scroll down to the instructions if you have questions and feel free to reach out.
+We are revisiting the TEC mission, vision and values and proposing new statements using [Tokenlog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) to pick the best ones. Everyone can participate and CSTK and Impact Hour token holders can vote! There are only 2 steps, proposing and voting. Scroll down to the instructions if you have questions and feel free to reach out.
 
 The very first move of the Cultural Build was to iterate on the mission, vision and values of the TEC. It seemed appropriate to understand the direction of the path we want to open before just walking in it. A big learning from this early step is that we needed a decision making process before making any decision :sweat_smile:
 
@@ -46,7 +46,7 @@ The TE Commons mission is to gather and steward the efficient distribution of fu
 
 ## **Step 1 - PROPOSING**
 
-- Go to Tokenlog · Token-weighted backlogs 1
+- [Go to Tokenlog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) · Token-weighted backlogs 1
 
 - To submit a proposal is super easy, click on “new issue”. This will bring you to a Github issue template which you should fill with one statement for the mission, one for vision and one for values. This time we aren’t doing “Near” and “Long” term missions, just Mission, since we are so close to hatching.
 
