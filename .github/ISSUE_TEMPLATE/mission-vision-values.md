@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-### What is the mission of the Token Engineering Commons?
+### What is the vision of the Token Engineering Commons? (What is the world the TEC wants to see?) 
 ...
 
-### How do you envision the world will benefit from the efforts of the Token Engineering Commons?
+### What is the mission of the Token Engineering Commons? (How are we going to get there?)
 ...
 
-### What are the core values of the Token Engineering Commons?
+### What are the core values of the Token Engineering Commons? 
 ...
 
 --- 
