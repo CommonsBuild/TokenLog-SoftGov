@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### What is the vision of the Token Engineering Commons? (What is the world the TEC wants to see?) 
+### What is the vision of the Token Engineering Commons? (What world does the TEC wants to see?) 
 ...
 
 ### What is the mission of the Token Engineering Commons? (How are we going to get there?)
