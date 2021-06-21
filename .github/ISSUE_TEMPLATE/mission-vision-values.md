@@ -1,6 +1,6 @@
 ---
 name: Impact Hour Intervention
-about: 'The Praise data analysis has informed us about different aspeccts of the current distribution. What interventions would you like to propose? You can also propose no interventions and share your reasoning.'
+about: 'The Praise data analysis has informed us about different aspeccts of the IH distribution. What interventions would you like to propose? You can also propose no interventions and share your reasoning.'
 title: 'Name your proposal'
 labels: 'Mission'
 assignees: ''
