@@ -34,7 +34,7 @@ Yes/No
 
 --- 
 
-🤔 Take a look at [this post](https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296) if you have any questions.
+🤔 Take a look at [this forum post](https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/50?u=liviade) if you have any questions.
 
 🗳 When you are finished writing, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite proposals! 
 
