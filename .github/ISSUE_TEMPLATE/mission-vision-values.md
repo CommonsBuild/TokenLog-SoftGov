@@ -6,6 +6,7 @@ labels: 'Mission'
 assignees: ''
 
 ---
+### [Praise Analysis Dashboard](https://praisedistributions.herokuapp.com/app)
 
 ### 1. Does this proposal address that some categories may be under rewarded and others over rewarded?
 
