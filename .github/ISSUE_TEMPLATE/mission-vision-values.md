@@ -1,25 +1,46 @@
 ---
-name: Mission Vision Values
-about: 'We are revisiting the TEC mission, vision and values and proposing new statements using TokenLog to pick the best ones. Everyone can submit issues and CSTK and Impact Hour token holders can vote!'
-title: 'Name your vision. Be creative! ✨'
+name: Impact Hour Intervention
+about: 'The Praise data analysis has informed us about different aspeccts of the current distribution. What interventions would you like to propose? You can also propose no interventions and share your reasoning.'
+title: 'Name your proposal'
 labels: 'Mission'
 assignees: ''
 
 ---
 
-### What is the vision of the Token Engineering Commons?
+### 1. Does this proposal address that some categories may be under rewarded and others over rewarded?
+
+Yes/No
+
 ...
 
-### What is the mission of the Token Engineering Commons? (How are we going to get there?)
+### 2. Does this proposal address that paid contributors have had a 50-85% reduction to their total number of impact hours?
+
+Yes/No
+
 ...
 
-### What are the core values of the Token Engineering Commons? 
+### 3. Does this proposal address that foundational members of the Token Engineering Community may lack recognition for their less visible work?
+
+Yes/No
+
 ...
+
+### 4. Does this proposal address the distribution of impact hours in relation to equality metrics such as the Gini Coefficient?
+
+Yes/No
+
+...
+What interventions are being proposed? 
+
+
+What is the reasoning?
+
+
 
 --- 
 
 🤔 Take a look at [this post](https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296) if you have any questions.
 
-🗳 When you are finished writing, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite visions! 
+🗳 When you are finished writing, head over to [TokenLog](https://tokenlog.xyz/TECommons/TokenLog-SoftGov) and vote for your favourite proposals! 
 
-📆 In the TEC, we have a tradition of voting on the weekends so everyone has the chance to submit a proposal until Friday, April 2nd when the voting phase will be promoted.
+📆 This voting session ends on Tuesday, June 29th at 7pm CET.
