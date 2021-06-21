@@ -11,30 +11,25 @@ assignees: ''
 
 Yes/No
 
-...
-
 ### 2. Does this proposal address that paid contributors have had a 50-85% reduction to their total number of impact hours?
 
 Yes/No
-
-...
 
 ### 3. Does this proposal address that foundational members of the Token Engineering Community may lack recognition for their less visible work?
 
 Yes/No
 
-...
-
 ### 4. Does this proposal address the distribution of impact hours in relation to equality metrics such as the Gini Coefficient?
 
 Yes/No
 
+### What interventions are being proposed? 
+
 ...
-What interventions are being proposed? 
 
+### What is the reasoning?
 
-What is the reasoning?
-
+...
 
 
 --- 
